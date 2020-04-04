@@ -1,0 +1,11 @@
+server:
+  port: ${PORT:50101} #服务端口
+spring:
+  application:
+    name: eureka_server #指定服务名
+eureka:
+  client:
+    registerWithEureka: false #服务注册，是否将自己注册到Eureka服务中
+    fetchRegistry: false #服务发现，是否从Eureka中获取注册信息
+  server:
+    wait-time-in-ms-when-sync-empty: 5

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5928b4e3-fb69-4cd0-965b-567f36dc8d2f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/configpassword/config-client-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configpassword/configpassword.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configpassword/pom.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\repository" />
+        <option name="mavenHome" value="F:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a4SX4SpZZ7ACx9WQHUtZ8nOKiO" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.SearchUserApplication">
+    <configuration name="GovernCenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka_server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.govern.center.GovernCenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-manage-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.edu.nuaa.manage_user.ManageUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-manage-searchuser" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.edu.nuaa.searchuser.SearchUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5928b4e3-fb69-4cd0-965b-567f36dc8d2f" name="Default Changelist" comment="" />
+      <created>1585993408768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585993408768</updated>
+      <workItem from="1585993411811" duration="126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="107" y="0" key="CommitChangelistDialog2" timestamp="1585993584154">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="107" y="0" key="CommitChangelistDialog2/0.0.1280.770@0.0.1280.770" timestamp="1585993584154" />
+    <state x="420" y="77" key="FileChooserDialogImpl" timestamp="1585993512226">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="420" y="77" key="FileChooserDialogImpl/0.0.1280.770@0.0.1280.770" timestamp="1585993512226" />
+    <state x="280" y="87" key="NewModule_or_Project.wizard" timestamp="1585993472701">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="280" y="87" key="NewModule_or_Project.wizard/0.0.1280.770@0.0.1280.770" timestamp="1585993472701" />
+    <state x="120" y="0" key="SettingsEditor" timestamp="1585993535564">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="120" y="0" key="SettingsEditor/0.0.1280.770@0.0.1280.770" timestamp="1585993535564" />
+  </component>
+</project>
